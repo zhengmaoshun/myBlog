@@ -4,7 +4,7 @@ heroImage: /hello.jpg
 heroText: 科技让世界更美好
 tagline: 分享 协作 创新 共赢
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: /vue/
 features:
 - title: 面试题
   details: 工作日每天搞定一道大厂前端面试题，一年后再回头，会感谢曾经努力的自己！

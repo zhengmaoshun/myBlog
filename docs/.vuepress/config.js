@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: { //主题配置
     nav: [ //头部导航条
       { text: '首页', link: '/' },
-      { text: '基础教程', link: '/guide/' },
+      { text: '基础教程', link: '/vue/' },
       { text: '前端笔记', link: '/foo/' },
       { text: '后端笔记', link: '/google/' },
       { text: 'github', link: 'https://github.com/zhengmaoshun/myBlog' },
@@ -42,7 +42,7 @@ module.exports = {
       // }
     ],
     sidebar:{ //配置侧边栏
-      '/foo/': [
+      '/foo/':[
         '',     /* /foo/ */
         'one',  /* /foo/one.html */
         'two'   /* /foo/two.html */
